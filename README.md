@@ -1,6 +1,5 @@
 # madhusammetla# 💫 About Me:
-Aspiring Computer Science Engineering student passionate about building AI-powered web applications. Skilled in modern frontend technologies and Python, with a strong focus on solving real-world problems using AI tools, rapid prototyping, and innovative development approaches.<img width="468" height="33" alt="image" src="https://github.com/user-attachments/assets/5fa6f3ba-a761-45b8-95b0-b0c61c95d3f2" />
-
+Aspiring Computer Science Engineering student passionate about building AI-powered web applications. Skilled in modern frontend technologies and Python, with a strong focus on solving real-world problems using AI tools, rapid prototyping, and innovative development approaches.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhu._.646) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhu-babu-sammetla-8b0287372) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Madhusammetla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhusammetla@gmail.com) 
